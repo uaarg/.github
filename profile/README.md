@@ -6,7 +6,7 @@ If you are a new member looking to get started, then first hello! Welcome to UAA
 
 ## Our Common Repositories
 
-### Pigon
+### Pigeon
 
 Pigeon is UAARG's ground station imaging software. It is used to analyze images received from the aircraft through a combination of manual and automatic processes.
 
