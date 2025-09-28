@@ -6,20 +6,26 @@ If you are a new member looking to get started, then first hello! Welcome to UAA
 
 ## Our Common Repositories
 
-### Pigeon
+### Emu
 
-Pigeon is UAARG's ground station imaging software. It is used to analyze images received from the aircraft through a combination of manual and automatic processes.
+Emu is UAARG's NEW ground station imaging software. It is used to analyze images received from the aircraft through a combination of manual and automatic processes.
 
-Repository: [github.com/uaarg/pigeon](https://github.com/uaarg/pigeon).
+[Repository](https://github.com/uaarg/emu)
+
+### MAVCTL
+
+MAVCTL (MAV-Control) is meant to be an open source library intended to replace [dronekit-python]([url](https://github.com/dronekit/dronekit-python)). 
+
+[Repository](https://github.com/uaarg/mavctl-python)
 
 ### Shepard
 
 A collection of scripts running on the drone or for determining drone flight plans. These preform both imaging and autopilot tasks.
 
-Repository: [github.com/uaarg/shepard](https://github.com/uaarg/shepard).
+[Repository](https://github.com/uaarg/shepard)
 
 ### The Guide
 
-Documentation for working with UAARG code bases and required tools.
+Documentation for working with UAARG code bases and required tools. [See the guide](https://uaarg.com/guide/).
 
-Repository: [github.com/uaarg/guide](https://github.com/uaarg/guide).
+[Repository](https://github.com/uaarg/guide)
