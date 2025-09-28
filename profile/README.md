@@ -14,7 +14,7 @@ Emu is UAARG's NEW ground station imaging software. It is used to analyze images
 
 ### MAVCTL
 
-MAVCTL (MAV-Control) is meant to be an open source library intended to replace [dronekit-python]([url](https://github.com/dronekit/dronekit-python)). 
+MAVCTL (MAV-Control) is meant to be an open source library intended to replace [dronekit-python](https://github.com/dronekit/dronekit-python).
 
 [Repository](https://github.com/uaarg/mavctl-python)
 
