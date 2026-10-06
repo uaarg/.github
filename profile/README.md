@@ -29,3 +29,7 @@ A collection of scripts running on the drone or for determining drone flight pla
 Documentation for working with UAARG code bases and required tools. [See the guide](https://uaarg.com/guide/).
 
 [Repository](https://github.com/uaarg/guide)
+
+### Learning Tools
+
+This repository serves as a reference and hands-on learning tool for the languages and technologies used in our development stack. It contains beginner-friendly examples, exercises, and seminar material designed to build programming fundamentals before progressing into more advanced concepts. [Repository](https://github.com/Crusific/UAARG-and-AARC-Learning.git)
